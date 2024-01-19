@@ -5,8 +5,10 @@
 
 
 - 🔭 I’m currently exploring the world of Front-end Development
-- - 🌱 I’m currently learning [Astro]([https://astro.build/])
-- - 📫 How to reach me: [Me, myself & I]([https://www.hamishroberts.co.nz/])
+- 🌱 I’m currently learning [title](https://www.example.com)
+
+-  📫 How to reach me: [title](https://www.example.com)
+
 
 
 <!--

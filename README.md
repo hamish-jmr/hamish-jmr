@@ -1,4 +1,13 @@
-### Hi there 👋
+`helloWorld();`
+### Kia ora 👋
+
+*"You don't know what you don't know" - unknown*
+
+
+- 🔭 I’m currently exploring the world of Front-end Development
+- - 🌱 I’m currently learning [Astro]([https://astro.build/])
+- - 📫 How to reach me: [Me, myself & I]([https://www.hamishroberts.co.nz/])
+
 
 <!--
 **hamish-jmr/hamish-jmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

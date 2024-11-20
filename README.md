@@ -5,7 +5,6 @@
 
 
 - 🔭 I’m currently exploring the world of Front-end Development
--  📫 How to reach me: [Me, Myself & I](https://www.hamishroberts.co.nz/about)
 
 
 <!--
